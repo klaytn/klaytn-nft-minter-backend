@@ -1,0 +1,25 @@
+{
+  "name": "klip-nft-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "caver-js": "^1.6.0",
+    "caver-js-ext-kas": "^1.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "keccak256": "^1.0.2",
+    "mariadb": "^2.5.3",
+    "multer": "^1.4.2",
+    "sequelize": "^6.5.1"
+  }
+}

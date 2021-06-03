@@ -1,0 +1,11 @@
+{
+  "name": "name",
+  "description": "description",
+  "image": "image_url",
+  "background_color": "#cc3333",
+  "attributes": [],
+  "sendable": true,
+  "send_friend_only": true,
+  "external_link": "",
+  "external_url": ""
+}

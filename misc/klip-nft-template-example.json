@@ -1,0 +1,37 @@
+{
+  "name": "Air Jordan III 'Jordan Unite Collection'",
+  "description": "Air Jordan III 'Jordan Unite Collection'",
+  "image": "https://klip-media.dev.klaytn.com/card_asset/131/df8f8796-280b-4cf5-a046-86109418e521.jpg",
+  "background_color": "#cc3333",
+  "attributes": [
+    {
+      "trait_type": "품명",
+      "value": "Air Jordan III"
+    },
+    {
+      "trait_type": "컬렉션",
+      "value": "Jordan Unite Collection"
+    },
+    {
+      "trait_type": "색상",
+      "value": " Red"
+    },
+    {
+      "trait_type": "구매날짜",
+      "value": "2020.08.27"
+    }
+  ],
+  "group_name": "나이키",
+  "group_icon": "https://klip-media.dev.klaytn.com/card_asset/131/9a16a506-b633-4793-a211-3cadced490cc.png",
+  "hashtags": [
+    "나이키",
+    "에어조던",
+    "한정판",
+    "AirJordanIII",
+    "JordanUniteCollection",
+    "운동화"
+  ],
+  "sendable": true,
+  "send_friend_only": true,
+  "external_link": ""
+}
